@@ -1,4 +1,3 @@
-# Temperature Converter
 <h1>Temperature Converter</h1>
 
 This is an app that converts between the major units of temperature.

@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Signika:300,400');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+}
+
+div {
+  height: 33.33vh;
+}
+
+input[type=number] {
+  width: 100%;
+  height: 100%;
+  font-family: Signika, Sans-Serif;
+  font-size: 10rem;
+  text-align: center;
+  background: #000;
+  color: #fff;
+  outline: none;
+  border: none;
+}
+
+::-webkit-input-placeholder { /* Chrome/Safari/Opera */
+  color: #222;
+}
+
+::-moz-placeholder { /* Firefox */
+  color: #222;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #222;
+}
+
+#fahrenheit {
+  border-top: #fff solid 4px;
+  border-bottom: #fff solid 4px;
+}
+
+
+

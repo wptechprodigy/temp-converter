@@ -1,0 +1,27 @@
+{
+  "name": "temp-converter",
+  "version": "1.0.0",
+  "description": "Temperature Converter",
+  "main": "app.js",
+  "homepage": "https://wptechprodigy.github.io/temp-converter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wptechprodigy/temp-converter.git"
+  },
+  "keywords": [
+    "temperature",
+    "converter"
+  ],
+  "author": "Waheed Afolabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wptechprodigy/temp-converter/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
